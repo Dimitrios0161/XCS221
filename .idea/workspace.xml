@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b00bd508-6c89-45cc-b5bd-82851549eedf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/XCS221_1/src/error-analysis" beforeDir="false" afterPath="$PROJECT_DIR$/XCS221_1/src/error-analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS221_1/src/experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XCS221_1/src/experiments.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS221_1/src/submission.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS221_1/src/submission.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS221_1/src/weights" beforeDir="false" afterPath="$PROJECT_DIR$/XCS221_1/src/weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS221_1/support material/ner.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS221_1/support material/ner.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/XCS221_1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ICNYILnCq3gF3zInwNkyG4RoGg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Courses/XCS221/xcs221_reconstruction",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b00bd508-6c89-45cc-b5bd-82851549eedf" name="Changes" comment="" />
+      <created>1669681653437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669681653437</updated>
+      <workItem from="1669681656141" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
